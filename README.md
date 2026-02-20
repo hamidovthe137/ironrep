@@ -1,2 +1,2 @@
 # SSH connection test
-git add . test
+# git add . test
