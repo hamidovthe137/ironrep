@@ -1,0 +1,20 @@
+     63 change
+     49 Daemon
+     34 0
+     33 Deactivated
+     30 target
+     29 -
+     23 on
+     17 SRAT
+     17 
+     15 repeated
+     12 PXM
+     11 c414
+     11 5582
+     10 Using
+     10 Registered
+      8 registering
+      8 hash
+      7 wsl-pro.service
+      6 slice
+      6 hibernation
